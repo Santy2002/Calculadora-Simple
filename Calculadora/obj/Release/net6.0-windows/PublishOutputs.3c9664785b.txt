@@ -1,0 +1,5 @@
+C:\Users\Santi\Desktop\Calcu\Calculadora.exe
+C:\Users\Santi\Desktop\Calcu\Calculadora.dll
+C:\Users\Santi\Desktop\Calcu\Calculadora.deps.json
+C:\Users\Santi\Desktop\Calcu\Calculadora.runtimeconfig.json
+C:\Users\Santi\Desktop\Calcu\Calculadora.pdb
