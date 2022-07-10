@@ -138,5 +138,9 @@ namespace Calculadora
             }
         }
 
+        private void EasterEgg(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }

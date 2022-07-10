@@ -36,7 +36,7 @@
 
             </Grid.RowDefinitions>
 
-            <Button Content="💎" VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="25" Height="86.808" Width="87.5"/>
+            <Button Content="💎" Click="EasterEgg" VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="25" Height="86.808" Width="87.5"/>
 
             <Button Name="div" Content="/" Click="OperadorClick" Grid.Column="3" Grid.Row="0"/>
             <Button Name="borrar" Content="←" Click="borrar_Click" Grid.Column="2" Grid.Row="0"/>
