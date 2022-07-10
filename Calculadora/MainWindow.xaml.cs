@@ -84,25 +84,11 @@ namespace Calculadora
             else return false;
         }
 
-        private void mas_Click(object sender, RoutedEventArgs e)
+        private void OperadorClick(object sender, RoutedEventArgs e)
         {
             MandarArriba(sender);
         }
-
-        private void menos_Click(object sender, RoutedEventArgs e)
-        {
-            MandarArriba(sender);
-        }
-
-        private void multi_Click(object sender, RoutedEventArgs e)
-        {
-            MandarArriba(sender);
-        }
-
-        private void div_Click(object sender, RoutedEventArgs e)
-        {
-            MandarArriba(sender);
-        }
+        
         private void igual_Click(object sender, RoutedEventArgs e)
         {
             if (Display.Text.Length != 0 && Num1 > 0)
